@@ -111,6 +111,11 @@
       "name": "Instituto Tecnológico de Monterrey Test",
       "location": "Monterrey, Nuevo León, México",
       "url": "https://tec.mx/es"
+    },
+    "did:key:example": {
+      "name": "Universidad Nacional de Río Negro",
+      "location": "Viedma, Río Negro, Argentina",
+      "url": "https://www.unrn.edu.ar"
     }
   }
 }
